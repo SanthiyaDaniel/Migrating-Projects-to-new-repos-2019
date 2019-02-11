@@ -1,4 +1,4 @@
-# Strating
+# Starting
 Migrating to new environment
 # Research Areas
 ## Audio Analytics
