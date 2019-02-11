@@ -1,12 +1,12 @@
 # Strating
 Migrating to new environment
-#Research Areas
-##Audio Analytics
-##NLP
-##AI
+# Research Areas
+## Audio Analytics
+## NLP
+## AI
 
-#Transferring past projects
-##Project1
+# Transferring past projects
+## Project1
 
-#Updates on current project
-##Motivation
+# Updates on current project
+## Motivation
