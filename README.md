@@ -1,12 +1,26 @@
-# Starting
-Migrating to new environment
-# Research Areas
-## Audio Analytics
-## NLP
-## AI
+# Migrating to new environment
 
-# Transferring past projects
-## Project1
+```
+Migrating my reseach in data science to this github profile. Strating from basics in machine learning and deep learning to advanced learning in these fields for various real-time implementations.
 
-# Updates on current project
-## Motivation
+Also adding my completed projects in data science. 
+```
+
+## DataScience analysis
+* Machine Learning
+* Deep learning
+* Reienforcement learning
+* Natural Language Processing
+
+## Research Areas
+* Audio Analytics
+* Text Processing
+* Artificial intelligence
+
+## Completed realtime projects
+* NLP
+  * Chatbot
+  * Sentiment Analysis
+  * Motive analysis
+  
+
